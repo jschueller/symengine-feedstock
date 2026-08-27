@@ -31,7 +31,7 @@ requirements:
     - mpc
     - libflint
     - winpthreads-devel   # [win]
-    - llvmdev <17
+    - llvmdev
     # these two come from LLVM
     - zstd
     - zlib
